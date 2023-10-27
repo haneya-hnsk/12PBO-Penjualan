@@ -1,0 +1,15 @@
+D:\SISWA\xllrpl1\penjualan\penjualan\bin\Debug\penjualan.exe.config
+D:\SISWA\xllrpl1\penjualan\penjualan\bin\Debug\penjualan.exe
+D:\SISWA\xllrpl1\penjualan\penjualan\bin\Debug\penjualan.pdb
+D:\SISWA\xllrpl1\penjualan\penjualan\bin\Debug\MySql.Data.dll
+D:\SISWA\xllrpl1\penjualan\penjualan\bin\Debug\MySql.Data.xml
+D:\SISWA\xllrpl1\penjualan\penjualan\obj\Debug\penjualan.csprojResolveAssemblyReference.cache
+D:\SISWA\xllrpl1\penjualan\penjualan\obj\Debug\penjualan.Form1.resources
+D:\SISWA\xllrpl1\penjualan\penjualan\obj\Debug\penjualan.Form2.resources
+D:\SISWA\xllrpl1\penjualan\penjualan\obj\Debug\penjualan.Properties.Resources.resources
+D:\SISWA\xllrpl1\penjualan\penjualan\obj\Debug\penjualan.csproj.GenerateResource.Cache
+D:\SISWA\xllrpl1\penjualan\penjualan\obj\Debug\penjualan.exe
+D:\SISWA\xllrpl1\penjualan\penjualan\obj\Debug\penjualan.pdb
+D:\SISWA\xllrpl1\renames\penjualan\penjualan\bin\Debug\penjualan.exe.config
+D:\SISWA\xllrpl1\renames\penjualan\penjualan\obj\Debug\penjualan.exe
+D:\SISWA\xllrpl1\renames\penjualan\penjualan\obj\Debug\penjualan.pdb

@@ -1,0 +1,28 @@
+ // DataGridViewRow row = barang.Rows[e.RowIndex];
+
+            //int hj = int.Parse(label8.Text);
+
+            //int thj = j * hj;
+
+
+            //int hb = int.Parse(label9.Text);
+            //int thb = j * hb;
+
+            //int k = thj - thb;
+
+
+
+            //tthj.Text = thj.ToString();
+            //tthb.Text = thb.ToString();
+            //tk.Text = k.ToString();
+
+
+private void barang_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            DataGridViewRow row = barang.Rows[e.RowIndex];
+            tid.Text = row.Cells[0].Value.ToString();
+            tnb.Text = row.Cells[1].Value.ToString();
+            label8.Text = row.Cells[2].Value.ToString();
+            label9.Text = row.Cells[3].Value.ToString();
+
+        }
